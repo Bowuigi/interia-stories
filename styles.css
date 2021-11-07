@@ -13,17 +13,25 @@ a {
 }
 
 .historia {
-	padding: 0.6em;
-	border-radius: 0.5em;
 	background-color: skyblue;
 	color: #111111;
 	display: block;
+	padding: 0.6em;
+	border-radius: 0.5em;
 }
 
 .descripcion {
-	padding: 0.6em;
-	border-radius: 10px;
 	background-color: darkseagreen;
 	color: #000000;
 	display: block;
+	padding: 0.6em;
+	border-radius: 0.5em;
+}
+
+.autor {
+	background-color: papayawhip;
+	color: #000000;
+	display: block;
+	padding: 0.6em;
+	border-radius: 0.5em;
 }
