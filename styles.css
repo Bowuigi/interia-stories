@@ -1,0 +1,10 @@
+* {
+	color: white;
+	background-color: #111111;
+	margin: auto;
+}
+
+a {
+	padding: 1em;
+	border-radius: 20px;
+}
