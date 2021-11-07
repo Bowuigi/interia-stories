@@ -1,12 +1,29 @@
 * {
 	color: white;
-	background-color: #111111;
-	padding: 3em;
+	background-color: #111;
+	margin: 0.3em;
+}
+
+ol li::marker {
+	color: deepskyblue;
 }
 
 a {
-	margin: 1em;
-	padding: 1em;
-	border-radius: 20px;
-	color: lightblue;
+	text-decoration: none;
+}
+
+.historia {
+	padding: 0.6em;
+	border-radius: 0.5em;
+	background-color: skyblue;
+	color: #111111;
+	display: block;
+}
+
+.descripcion {
+	padding: 0.6em;
+	border-radius: 10px;
+	background-color: darkseagreen;
+	color: #000000;
+	display: block;
 }
