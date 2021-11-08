@@ -3,16 +3,11 @@
 	src: url(fonts/Merienda/Merienda-Regular.ttf)
 }
 
-@font-face {
-	font-family: PatrickHand;
-	src: url(fonts/PatrickHand/PatrickHand-Regular.ttf)
-}
-
 * {
 	color: white;
 	background-color: #111;
 	margin: 0.3em;
-	font-family: PatrickHand;
+	font-family: Merienda;
 }
 
 ol li::marker {
@@ -21,7 +16,6 @@ ol li::marker {
 
 a {
 	text-decoration: none;
-	font-family: Merienda;
 }
 
 .historia {
