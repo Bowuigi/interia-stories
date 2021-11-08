@@ -1,4 +1,10 @@
+@font-face {
+	font-family: Merienda;
+	src: url(fonts/Merienda/Merienda-Regular.ttf)
+}
+
 * {
+	font-family: Merienda;
 	color: white;
 	background-color: #111;
 	margin: 0.3em;
