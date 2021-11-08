@@ -1,0 +1,25 @@
+cap_1:
+	#Prometeo y el fuego
+	Prometeo era un titan amigo de los humanos. Zeus había decretado que el fuego debía permanecer en el Olimpo y no debía ser entregado a los hombres,
+	pero Prometeo no estaba de acuerdo con esa orden.
+	
+	Prometeo se introdujo en el taller de Hefesto y tomó unas brasas de uno de sus hornos con las que prendió una planta de hinojo y se lo entregó a los
+	humanos.
+	
+	Cuando Zeus se dio cuenta del robo, Hércules toma una decisión:
+	
+	@opt_a
+	Si quieres que Hércules ayude a Prometeo, haz click aquí
+	
+	@opt_b
+	Si quieres que Hércules no ayude a Prometeo, haz click aquí
+
+
+opt_a:
+	Hércules le avisó a Prometeo que Zeus iba a castigarlo, entonces lo ayudó a huir.
+	A cambio de su ayuda, Prometeo tuvo que acompañarlo a cumplir con los 12 trabajos.
+
+opt_b:
+	Zeus lo condenó a permanecer encadenado eternamente a una roca en la que un águila le comería el hígado.
+	Cada noche su hígado se regeneraba y el ave volvía a comérselo al día siguiente.
+

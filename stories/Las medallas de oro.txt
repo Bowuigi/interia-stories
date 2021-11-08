@@ -1,0 +1,84 @@
+relato:
+	#Las medallas de oro
+	
+	1940, Copenhague
+	Bohr tiene que esconder las medallas de oro de sus colegas, Max von Laue y James Franck, para protegerlas de los Nazis, que se las querían llevar. Como tenía los segundos contados, Bohr le pide ayuda a George Hevesy.
+	Así que de Hevesy disolvió el oro con agua regia (HNO3 (Ácido Nítrico) + HCl (Ácido clorhídrico)) y queda como [AuCl4]-
+	Con esto disuelven las medallas. Cuando llegan los Nazis, lo único que se puede ver es un vaso de precipitado con una solución naranja, que se encontraba junto con las demás soluciones.
+	Luego, cuando se termina la guerra y la ocupación Nazi en 1945, recuperaron el oro con un reductor y lo mandaron a la Real Academia de Estocolmo para volverlo a transformar en medallas, que se vuelven a entregar en una ceremonia en 1952
+	
+	@situacion_historica
+	Situación histórica
+
+	@porque_las_medallas
+	Por qué los Nazis querían las medallas
+
+	@biografias
+	Biografías
+
+situacion_historica:
+	Francia estaba dividida en dos, una parte que ocupaba Alemania y otra parte “libre” en la que mandaban los nazis, pero indirectamente.
+	Dinamarca era invadida por los Nazis desde 1940, pero los gobiernos de el lugar no habían sido disueltos por Hitler porque pensaba que eran de raza pura, de todas maneras, se seguían sus órdenes
+	
+	@https://es.wikipedia.org/wiki/Copenhague
+	Más información sobre Copenhague aquí (abre el navegador)
+
+	@https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial
+	Más información sobre la segunda guerra mundial aquí (también abre el navegador)
+
+	@relato
+	Volver al relato
+
+porque_las_medallas:
+	Los Nazis se querían llevar las medallas por varias razones:
+
+	- Por su valor simbólico (para mostrar su supuesta superioridad cultural)
+	- Por su valor monetario (ya que estaban hechas de oro)
+
+	@relato
+	Volver al relato
+
+biografias:
+	#Niels Bohr
+	
+	Niels Henrik David Bohr fue un físico danés que contribuyó en la comprensión del átomo y la mecánica cuántica. Fue galardonado con el Premio Nobel de Física en 1922.
+	
+	Nacimiento: 7 de octubre de 1885, Copenhague (Dinamarca)
+	Fallecimiento: 18 de noviembre de 1962, Copenhague (Dinamarca)
+	
+	@https://es.wikipedia.org/wiki/Niels_Bohr
+	Más información (abre el navegador)
+	
+	#Max von Laue
+	
+	Max von Laue fue un físico alemán galardonado con el Premio Nobel de Física en 1914 por sus trabajos en cristalografía de rayos X.
+	
+	Nacimiento: 9 de octubre de 1879, Pfaffendorf (Alemania)
+	Fallecimiento: 24 de abril de 1960, Berlín (Alemania)
+	
+	@https://es.wikipedia.org/wiki/Max_von_Laue
+	Más información (abre el navegador)
+	
+	#James Franck
+	
+	James Franck fue un físico alemán, ganador del Premio Nobel de Física en 1925 compartido con Gustav Hertz por su descubrimiento de las leyes que gobiernan el impacto de un electrón en un átomo
+	
+	Nacimiento: 26 de agosto de 1882, Hamburgo (Alemania)
+	Fallecimiento: 21 de mayo de 1964, Gotinga (Alemania)
+	
+	@https://es.wikipedia.org/wiki/James_Franck
+	Más información (abre el navegador)
+	
+	#George Hevesy
+	
+	George Hevesy (en húngaro: Hevesy György) fue un químico-físico sueco de origen húngaro galardonado con el Premio Nobel de Química del año 1943. En sus investigaciones, desarrolló un método para estudiar organismos vivos mediante trazas radioactivas.
+	
+	Nacimiento: 1 de agosto de 1885, Budapest (Hungría)
+	Fallecimiento: 5 de julio de 1966, Friburgo (Alemania)
+	
+	@https://es.wikipedia.org/wiki/George_Hevesy
+	Más información (abre el navegador)
+	
+	@relato
+	Volver al relato
+

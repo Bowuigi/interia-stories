@@ -1,0 +1,104 @@
+story:
+	#Goldilocks and the three bears
+	
+	Once upon a time there was a little girl. Her name was Goldilocks. She had golden hair.
+	
+	One day Goldilocks was walking in the forest. She saw a house and knocked on the door.
+
+	She went inside. Nobody was there.
+	
+	Goldilocks saw three bowls on the table. She was hungry.
+
+	“This porridge is too hot! This porridge is too cold! This porridge is just right!” Goldilocks ate all the porridge.
+	
+	Goldilocks was tired now.
+
+	“This chair is too big! This chair is too big, too! This chair is just right!” But the chair broke!
+	
+	Goldilocks was very tired. She went upstairs.
+
+	“This bed is too hard! This bed is too soft! This bed is just right!”
+	
+	Soon, the bears came home.
+	
+	“Someone's been eating my porridge!” said Daddy Bear.
+	“Someone's been eating my porridge!” said Mummy Bear.
+	“Someone's been eating my porridge - and it's all gone!” said Baby Bear.
+	
+	“Someone's been sitting on my chair!” said Daddy Bear.
+	“Someone's been sitting on my chair!” said Mummy Bear.
+	“Someone's been sitting on my chair - and it's broken!” said Baby Bear.
+	
+	“Someone's been sleeping in my bed!” said Daddy Bear.
+	“Someone's been sleeping in my bed!” said Mummy Bear.
+	“Someone's been sleeping in my bed - and she's still there!” said Baby Bear.
+	
+	Goldilocks woke up and saw the three bears...
+	
+	Now you decide what happens:
+	
+	@fix
+	The bears make Goldilocks fix the damage done
+	@run
+	Goldilocks runs to the forest
+	@parents
+	Goldilocks runs with her parents and they help the bears
+	@friends
+	Goldilocks ask the bears to be friends
+	@chair
+	Goldilocks sits on a chair and starts flying
+
+fix:
+	#The bears make Goldilocks fix the damage done
+	
+	Goldilocks fixes the chair, makes some porridge and cleans the entire house, after that, she runs away and never comes back
+	
+	The end
+
+run:
+	#Goldilocks runs to the forest
+	
+	She runs to the chairs and past the porridges, goes through the door and never comes back
+	
+	The end
+
+parents:
+	#Goldilocks runs with her parents and they help the bears
+	
+	She runs away, deep into the forest, and gets to her house
+	
+	She tells the situation to her parents and they decide to help the bears
+	
+	They go to the bears' house and they see the mess that Goldilocks did
+	
+	They fix the chair, make some porridge and clean the entire house
+	
+	The three bears were very happy!
+	
+	After that, Goldilocks and her parents go to their house
+	
+	The end
+
+friends:
+	#Goldilocks ask the bears to be friends
+	
+	The bears say yes, Goldilocks and the bears fix the chair, make some porridge and clean the entire house
+	
+	Every now and then Goldilocks goes to their house and plays with the bears
+	
+	The end
+
+chair:
+	#Goldilocks sits on a chair and starts flying
+	
+	She sits on the Mummy bear's chair, expecting something to happen
+	
+	The chair starts flying and goes above the bears' reach
+	
+	The chair flies past the other chairs, past the porridges and outside the house
+	
+	It flies deep into the forest and stops on Goldilocks' house
+	
+	Goldilocks enters her house and never talks about the chair or the bears to anyone
+	
+	The end

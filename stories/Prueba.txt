@@ -1,3 +1,0 @@
-main:
-	#Historia de prueba
-	Hola

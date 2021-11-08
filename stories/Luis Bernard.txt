@@ -1,0 +1,233 @@
+indice:
+	#Luis Bernard “el leopardo”
+	
+	Luis Bernard es un héroe medieval inventado por Mateo Crimella para un trabajo de Interia, propuesto por la profesora de Lengua de la Escuela Hospitalaria N°2, Laura Granda.
+	
+	Luis vive en Danemara, un país ficticio vecino de Francia y cercano a Inglaterra.
+	
+	En esta historia, se encuentra la historia completa de la vida de Luis, aunque no con el mayor detalle.
+	
+	Desde esta parte de la historia se puede saltar a cualquier otra.
+	
+	Aquí dejo el índice (recomiendo empezar por la primera, aunque usted es libre de elegir la que quiera)
+	
+	@infancia
+	Luis Bernard y su infancia en Danemara.
+	
+	@adolescencia
+	Luis Bernard y su adolescencia viajando por países vecinos.
+	
+	@adultez
+	Luis Bernard y su adultez en batalla.
+	
+	@invasion_francesa
+	Luis Bernard en la segunda invasión francesa a Danemara
+	
+	@vejez
+	Luis el leopardo en su vejez
+
+infancia:
+	#Luis Bernard y su infancia en Danemara
+	
+	20 de febrero de 830, un niño de pelo marrón y ojos verdes nace en Danemara
+	
+	Sus padres, que eran Franceses (aunque se hayan mudado a Danemara buscando una vida tranquila), le pusieron Luis Bernard.
+	
+	Luis siempre jugaba con sus amigos cerca de el parque central, y cada tanto, ayudaba a los comerciantes, que le daban unas monedas a cambio.
+	
+	Ciertamente Luis no tenía ningún tipo de experiencia en batalla, pero todos los días veía a los herreros de Danemara hacer espadas y
+	armaduras, y algunas veces, hasta soñaba con ser un caballero como su abuelo, que vivía en Francia, con el Rey.
+	
+	En el año 838, cuando Luis tenía ocho años, los piratas árabes sarracenos someten a la esclavitud a los habitantes de Marsella, muy cerca
+	de donde habían nacido sus padres, que se preocuparon mucho al escuchar la noticia.
+	
+	Tiempo después, Luis ayuda al herrero, que le regala una espada de madera para que practique.
+	
+	- “Toma, esta es una de las espadas que los grandes caballeros de aquí y de Francia usaron para practicar de pequeños” - dice
+	
+	Luis está muy agradecido y corre a contarle a sus padres.
+	
+	En 843 y cuando Luis tenía 13, sucede el Tratado de Verdún en Francia, por lo que Luis y sus padres fueron de visita, pasando por
+	la casa de su abuelo, que estaba muy enfermo, para saludarlo.
+	
+	A Luis le encantaban las historias de su abuelo, y no solo porque eran de él, sino porque tenían épicas peleas de caballeros y
+	grandes ejércitos. Cada tanto se enviaban cartas, ya que su abuelo le había enseñado a leer y escribir.
+	
+	En 844 y con territorio francés nuevo, sucede una tragedia, los franceses invaden Danemara, rompiendo una alianza de muchísimos años
+	por un capricho de el Rey. Luis y sus padres fueron a la parte noroeste de Danemara y allí sobrevivieron la invasión.
+	
+	Cada unos meses había una batalla en algunos de los dos territorios, había mucha tensión entre ellos y se rumoreaba que
+	iba a convertirse en una guerra.
+	
+	@indice
+	Volver al índice
+	
+	@adolescencia
+	Siguiente capítulo, Luis Bernard y su adolescencia viajando por países vecinos
+
+adolescencia:
+	#Luis Bernard y su adolescencia viajando por países vecinos
+	
+	En 845, con Luis teniendo 15 años, París sufre el primer saqueo Vikingo. Las noticias llegan a Danemara muy rápidamente por ser
+	un país vecino.
+	
+	A todo esto, los rumores de la guerra habían acabado, ya que todos pensaban que Francia se había debilitado bastante y no poseía
+	suficientes recursos como para realizarla.
+	
+	En 847, Luis se hace de novio con Beatrice Swift de Inglaterra, una mujer alta, con pelo negro y de ojos marrones. Esto fue
+	durante un viaje de comercio, en el que ayudo a varios comerciantes a transportar cosas de Danemara hasta Inglaterra para
+	su posterior venta.
+	
+	Ambos, Luis y Beatrice, regresan a Danemara, llevándose a los padres de Beatrice, que no les gustaba vivir en el lugar.
+	
+	Un año después, los Vikingos saquean Danemara, aunque Luis no se presenta en las batallas por no poseer equipamiento.
+	
+	Las dos familias tuvieron que mudarse de nuevo, esta vez cerca del centro.
+	
+	La estadía en esos lugares salía cara, pero Luis ayudaba a la gran mayoría de mercaderes, por lo que la consiguió al mismo precio que la
+	vivienda anterior.
+	
+	Además de eso, comenzó a prepararse ya que sabía que los Vikingos llegarían en cualquier momento...
+	
+	@indice
+	Volver al índice
+	
+	@adultez
+	Siguiente capítulo, Luis Bernard y su adultez en batalla
+
+adultez:
+	#Luis Bernard y su adultez en batalla
+	
+	Durante todo el año 848, Luis trabajó con cada uno de los herreros, carpinteros y trabajadores de cuero para conseguir equipamiento básico.
+	
+	Así es como en un año consiguió un equipo bastante bueno, aunque desactualizado para la época:
+	
+	Armadura grande, bastante pesada. Fabricada mayoritariamente de hierro, aunque con un interior de cuero para estar cómodo.
+	
+	Guantes grandes de cuero reforzados con hierro en el exterior, que hacían que las armas sean más difíciles de manejar pero le
+	daba la defensa suficiente como para poder agarrar (y detener) espadas en movimiento sin salir lastimado.
+	
+	Espada de un metro y cuarto de largo, mango de madera con cuero reforzado y hoja de hierro, forjada por algunos de los mejores
+	herreros de la ciudad central.
+	
+	Completa su entrenamiento con espada al año siguiente, en el cual también consigue un caballo y gana buena reputación como ayudante.
+	
+	En los siguientes dos años, 850 y 851, Luis pelea muchas batallas con su armadura, su espada y su caballo, teniendo como inspiración
+	a su novia, Beatrice, ya que sus padres habían muerto.
+	
+	En estos años, Luis se da cuenta que las espadas no hacen mucho contra las armaduras de cota de malla, que se habían popularizado en
+	los campos de batalla, así que decide probar diferentes armas al año siguiente.
+	
+	Y en ese año probó lanzas, cuchillos, puñales, látigos, hachas, mazas y otras, solo para llegar a la conclusión de que con
+	suficiente práctica, el látigo sería la mejor opción, ya que, con suficiente práctica, podía atravesar la parte de metal
+	de la armadura, dejando la parte acolchada expuesta, que podía destruir fácilmente con un cuchillo o el propio látigo.
+	
+	Luego de entrenar por unos meses y hasta el final del año, convierte el látigo en su arma principal.
+	
+	Todos sus compañeros de batalla se preguntaban que hacía con un látigo, “Ya me verán en batalla, hice algunas mejoras” - respondía
+	
+	Es el año 855 y Luis aprendió sus técnicas principales, que usa en batallas contra Francia ese mismo año.
+	
+	Estas técnicas son:
+	
+	- Desarmar a sus enemigos mediante un latigazo en el brazo.
+	- Romper partes de armaduras al enganchar su látigo y hacer fuerza.
+	- Agarrar almófares (la capucha de la armadura de malla), a veces dañando de gravedad a su portador y generalmente quitándoselos.
+	- Atar su cuchillo a la punta de su látigo para atacar de un poco más lejos y poder cortar fácilmente, al costo de perder su gancho.
+	Útil para peleas donde el enemigo no porta una armadura de cota de malla.
+	
+	Y su técnica principal, agarrar la espada del atacante (con su mano) y golpear la mano del atacante con el látigo, haciendo que el
+	enemigo la suelte rápidamente, dejándolo vulnerable ante posteriores ataques.
+	
+	@indice
+	Volver al índice
+	
+	@invasion_francesa
+	Siguiente capítulo, Luis Bernard en la segunda invasión francesa a Danemara
+
+invasion_francesa:
+	#Luis Bernard en la segunda invasión francesa a Danemara
+	
+	Casi finales del año 855, Luis se encuentra en el sur de Danemara, cerca de la frontera, para pelear con un ejército de franceses que
+	querían invadirlos.
+	
+	Una gran cantidad de soldados franceses estaban ingresando a Danemara con fines militares, apropiándose parte de la frontera sur.
+	
+	El Rey de Danemara se había dado cuenta muy tarde, así que mandó a todos los soldados que tenía (incluyendo a Luis) a solucionar el
+	problema.
+	
+	- “¡Hay 10.000 soldados como mínimo!” - Grita un compañero de Luis
+	
+	- “¡Y todos tienen armaduras de cota de malla! ¿Qué hacemos?” - Grita otro
+	
+	De repente se escucha un grito fuerte, de guerra...
+	
+	- “¡A la carga! ¡Abran paso!” - Grita Luis, montado en su caballo y yendo a muy alta velocidad
+	
+	- “¡Les dije sobre lo del látigo, ya me verán!” - Grita Luis
+	
+	De un momento a otro, se escucha un golpe, seguido de tres puñaladas y una espada que sale volando.
+	
+	- “¡Funciona! ¡Funciona!” - Grita Luis después de aplicar su técnica principal en el primer soldado francés que encontró.
+	
+	Todos los soldados se enfrentan en una larga batalla, Luis rompe todas las armaduras que puede, dejándolos casi indefensos ante los
+	espadazos de los demás.
+	
+	Luego da otra vuelta y hace volar las espadas, lastima caballos y engancha todo lo que puede, hasta casi perder el látigo.
+	
+	Otros soldados, que siguieron el consejo de Luis, consiguieron un látigo y lo siguieron...
+	
+	Así fue como dominaron la batalla y salieron victoriosos.
+	
+	Cuando volvieron de la misma, el Rey de Danemara citó a Luis y a otros soldados que usaron el látigo en batalla.
+	
+	- “Sir Luis Bernard, te nombro caballero de mí, el Rey, para que siempre me protejas, hasta que uno de los dos muera” - Decía el Rey,
+	mientras realizaba la ceremonia de caballería.
+	
+	Luego, Luis volvió con sus compañeros para contarles la noticia, a lo que uno respondió:
+	
+	- “¡Viva el nuevo caballero leopardo!”
+	
+	- “¡Viva!” - Gritaban los demás
+	
+	Desde ese momento, todos lo llamaban “Luis el leopardo”, por su gran velocidad en batalla.
+	
+	También, regresó a su casa, con su novia, Beatrice, para contarle lo sucedido, ya que ella estaba muy preocupada.
+	
+	Al día siguiente se casaron y tuvieron un hijo.
+	
+	@indice
+	Volver al índice
+	
+	@vejez
+	Siguiente capítulo, Luis el leopardo en su vejez
+
+vejez:
+	#Luis el leopardo en su vejez
+	Ciertamente esto no sería una vejez, sino el final de su vida, pero la esperanza de vida en esas épocas era de 35 años
+	
+	Año 859, Luis tenía 29 años, incendio en París a manos de los Vikingos, el hijo de Luis tenía 2 años.
+	
+	Luis seguía entrenando para mantenerse en forma, aunque Danemara estaba en paz después de aquella invasión francesa, aunque había mucha
+	tensión con los Vikingos.
+	
+	En 862, cuando Luis tenía 32 años y su hijo 5, los Vikingos ven a Danemara como un gran peligro, así que los atacan.
+	
+	Lamentablemente, Luis y su ejército perdieron a falta de caballos y soldados entrenados para usar látigos, ya que la mayoría había muerto
+	en batalla.
+	
+	Esto causó que casi la mitad de Danemara esté en dominio Vikingo, por lo menos hasta el año 864, cuando Luis pudo reclutar a suficientes
+	soldados para terminar con su “estadía” de una vez por todas...
+	
+	El hijo de Luis había cumplido 10 años para cuando se terminó el dominio Vikingo sobre Danemara, Luis le enseñó a pelear con la misma
+	espada de madera que el tenía de chico, también le enseño a ganarse la confianza de los mercaderes, ayudándolos.
+	
+	En el año 867, Luis tenía 37 años y su hijo 13. En este año Luis contrae una grave enfermedad, que lo mata a finales de año.
+	
+	Beatrice vive tres años más, hasta sus 40, mientras cuida a su hijo.
+	
+	#FIN
+	
+	@indice
+	Volver al índice
+
