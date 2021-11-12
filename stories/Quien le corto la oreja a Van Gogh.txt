@@ -1,0 +1,118 @@
+oreja:
+	#¿Quién le cortó la oreja a Van Gogh?
+	
+	Vincent Van Gogh fue un Artista Holandes nacido en 1853, un personaje
+	difícil en las relaciones con los demás por su carácter arisco y sus
+	arranques violentos.
+	
+	Perteneció al movimiento postimpresionista, sus pinturas más reconocidas
+	son La noche estrellada, Campo de Girasoles, El cuarto de Arles 
+	entre otras.
+	
+	Theo Van Gogh además de ser hermano menor fue su amigo, confidente y
+	manager.
+	
+	Contrariamente a lo que se cree Van Gogh no solo vendió un número
+	considerable de cuadros a lo largo de sus vida sino que los colegas lo
+	tenían en gran consideración. Nunca se pudo demostrar que padeciera
+	una enfermedad mental sin embargo tuvo varias entradas a manicomios,
+	lo mismo sucede con el asunto de la oreja amputada, y que
+	supuestamente habría regalado, este episodio está considerado como uno
+	de los más dramáticos del arte moderno.
+	
+	Hoy en día nadie está en condiciones de afirmar si la historia de la oreja
+	es cierta.  Sin embargo el cuadro Autorretrato de oreja vendada muestra
+	justamente a Van Gogh  con una venda en su oreja.
+	Contaremos dos versiones posibles sobre este curioso hecho.
+	Todo sucedió  en la nochebuena del año 1880 en Arles, ciudad francesa.
+	Van Gogh había alquilado la planta superior de una casa  no muy lejos de
+	la estación del ferrocarril con el afán de realizar varios  proyectos
+	artísticos.
+	
+	Su hermano le sugiere  a Vincent que se reúna con Paul Gauguin un 
+	artista arrogante y carismático  que vivía  en un pueblo cerca de Arles
+	llamado  Bretón, donde decidieron compartir la vivienda y nuevos  
+	proyectos. 
+	
+	La relación de los dos artistas no duró  demasiado, tras unas pocas
+	semanas en la casa las tensiones entre Van Gogh y por Paul Gauguin se
+	volvieron tan insoportables que el 24 de diciembre se produjo una violenta
+	discusión.  El carácter egocéntrico de Gauguin y el idealismo de Van Gogh
+	eran tan diferentes como sus estilos artísticos.
+	
+	Supuestamente el desencadenante de la tragedia fue las diferentes
+	percepciones de la ida al Museo Fabre de Montpellier y las impresiones
+	que ellos habían causado. Sus aspiraciones artísticas también eran muy
+	diferentes.  Van Gogh veía a la pintura como una especie de misión que él
+	mismo había elegido para consolar su alma.
+	
+	Los cuadros de Gauguin  estaban llenos de mensajes simbólicos que
+	alteraban y ensalzaban la realidad.
+	
+	¿Qué se te ocurre que pudo haber pasado?
+	
+	@gauguin
+	¿Te parece que Paul Gauguin le cortó la oreja?
+	
+	@locura
+	¿Te parece que Van Gogh se cortó su propia oreja en un acto de locura?
+	
+	Más información:
+	
+	@https://es.wikipedia.org/wiki/Paul_Gauguin
+	Paul Gauguin
+	
+	@https://es.wikipedia.org/wiki/Vincent_van_Gogh
+	Vincent Van Gogh
+	
+	@https://es.wikipedia.org/wiki/Autorretrato_con_la_oreja_vendada_y_caballete
+	Autorretrato de oreja vendada
+
+gauguin:
+	#Gauguin le corta la oreja a Van Gogh en una pelea
+	
+	Nadie sabe con exactitud los hechos, los únicos datos que se
+	encontraron  provienen de la boca de Gauguin que 13 años después
+	relató los hechos en sus memorias tituladas Avant et aprés,(antes y
+	después) y fue publicado en 1903 poco antes de su muerte, relata:
+	
+	Aquella noche después de recoger la mesa, sentí la necesidad de tomar
+	un poco de aire fresco. Salí a caminar, ya casi había atravesado la plaza
+	Víctor Hugo cuando escucho unos pasos detrás de mí,  me doy vuelta y
+	era Van Gogh, acelerado, desencajado  que se abalanza sobre mí, con
+	una navaja abierta en la mano. Me asusté mucho, nos miramos fijo, 
+	agacho su cabeza y  se  echó a correr en dirección a la casa. Tal vez debí
+	desarmarlo, sacarle la navaja pero por cobardía no lo hice.
+	
+	Esa noche me alquilé una habitación en un hotel para no volver a la casa
+	y alterar más a Van Gogh.
+	
+	A la mañana  siguiente me desperté temprano y al llegar a la plazoleta me
+	encontré con una multitud de gente reunida, pregunté lo  sucedido y me
+	contaron que Van Gogh se había cortado la oreja…..
+	
+	Este relato no convenció ya que nunca había existido una plaza llamada
+	Victor Hugo y tampoco coincide el nombre del hotel donde dice que se
+	alojó esa noche.
+	
+	La versión más fuerte es que en su cuarto, ambos con unas copas de
+	más se pelearon muy violentamente y Gauguin para defenderse,  le corta
+	con la navaja el lóbulo de la oreja, asustado por lo sucedido  lo deja
+	tendido en su cama envuelto en sangre.
+	
+	A los pocos días Gauguin se va de viaje  tal vez a Tahití olvidándose del
+	hecho.
+
+locura:
+	#Van Gogh se corta su propia oreja en un acto de locura
+	
+	El periodico local, Le Forum Republicain de Arles un 30 de diciembre en la
+	sección de sucesos, informó: el pasado domingo un hombre llamado
+	Vincente Van Gogh se presentó en la Maison  de Tolerance Nº 1, preguntó
+	por Raquel y le dio su oreja envuelta en paño blanco  diciéndole “Guarda
+	este objeto con cuidado” y después desapareció. A la mañana siguiente , la
+	mujer denuncia el hecho, la policía se dirige a la casa , donde lo
+	encontraron tirado en su cama, sin apenas signos vitales  donde fue
+	llevado de urgencia al hospital. 
+	
+	Vincent, luego de un tiempo logra recuperarse.
